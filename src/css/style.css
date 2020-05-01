@@ -1,0 +1,6 @@
+body {
+  background: firebrick;
+  font-family: sans-serif;
+  display: flex; }
+  body h1 {
+    color: magenta; }
